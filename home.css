@@ -1,4 +1,4 @@
-. .footer {
+.footer {
  bg-[#FF5B00]
  relative
  flex
@@ -9,12 +9,12 @@
  h-[fit-content]
  box-sizing-border
 }
-. .rectangle-27 {
+.rectangle-27 {
  rounded-t-[40px]
  w-[293px]
  h-[16px]
 }
-. .social {
+.social {
  m-[6px_0_6px_0]
  flex
  flex-row
@@ -22,21 +22,21 @@
  h-[fit-content]
  box-sizing-border
 }
-. .vector {
+.vector {
  m-[0_9px_0_0]
  w-[15px]
  h-[15px]
 }
-. .vector-1 {
+.vector-1 {
  m-[0_9px_0_0]
  w-[15px]
  h-[15px]
 }
-. .vector-2 {
+.vector-2 {
  w-[15px]
  h-[15px]
 }
-. .designed-by-zaynab-khosravi {
+.designed-by-zaynab-khosravi {
  absolute
  right-[162.7px]
  bottom-[6.7px]
@@ -46,7 +46,7 @@
  text-[4px]
  text-[#FFFFFF]
 }
-. .play-store-1 {
+.play-store-1 {
  bg-[url('assets/images/PlayStore1.png')]
  bg-[50%_50%]
  bg-cover
@@ -54,7 +54,7 @@
  w-[88px]
  h-[27px]
 }
-. .app-store-1 {
+.app-store-1 {
  bg-[url('assets/images/AppStore1.png')]
  bg-[50%_50%]
  bg-cover
@@ -62,7 +62,7 @@
  w-[88px]
  h-[27px]
 }
-. .group-44 {
+.group-44 {
  rounded-[50px]
  absolute
  left-[50%]
@@ -73,7 +73,7 @@
  items-center
  box-sizing-border
 }
-. .group-43 {
+.group-43 {
  rounded-[50px]
  bg-[#F9F9F9]
  relative
@@ -84,7 +84,7 @@
  w-[100%]
  box-sizing-border
 }
-. .order-now {
+.order-now {
  break-words
  font-['Montserrat']
  font-semibold
@@ -117,7 +117,7 @@
  text-[11px]
  leading-[1.333]
 }
-. .get-the-best-tasty-foods-with-hight-quality {
+.get-the-best-tasty-foods-with-hight-quality {
  m-[0_0_5px_0]
  text-center
  break-words
@@ -126,7 +126,7 @@
  text-[14px]
  text-[#FFFFFF]
 }
-. .lorem-ipsum-dolor-sit-amet-consectetur-dolor-vel-euismod-mus-purus-bibendum-donec-imperdiet-non-netus-velit {
+.lorem-ipsum-dolor-sit-amet-consectetur-dolor-vel-euismod-mus-purus-bibendum-donec-imperdiet-non-netus-velit {
  relative
  m-[5.2px_19.5px_0_0]
  inline-block
@@ -138,7 +138,7 @@
  leading-[1.439]
  text-[#FFFFFF]
 }
-. .username-reply {
+.username-reply {
  relative
  m-[0_0_6.6px_79.9px]
  flex
@@ -148,14 +148,14 @@
  w-[fit-content]
  box-sizing-border
 }
-. .ellipse-14 {
+.ellipse-14 {
  rounded-[9.5px]
  bg-[url('assets/images/Ellipse141.jpeg')]
  m-[0_0_1.5px_0]
  w-[19.1px]
  h-[19.1px]
 }
-. .user-name {
+.user-name {
  m-[0_0.6px_0_1.4px]
  break-words
  font-['Montserrat']
@@ -165,14 +165,14 @@
  leading-[1.439]
  text-[#000000]
 }
-. .union {
+.union {
  absolute
  top-[0px]
  right-[0px]
  w-[139.2px]
  h-[29.8px]
 }
-. .why-us {
+.why-us {
  m-[0_0_6.8px_0]
  flex
  flex-col
@@ -180,7 +180,7 @@
  w-[fit-content]
  box-sizing-border
 }
-. .group-32 {
+.group-32 {
  relative
  m-[5.9px_2.4px_2.7px_0]
  flex
@@ -188,7 +188,7 @@
  justify-center
  box-sizing-border
 }
-. .lorem-ipsum-dolor-sit-amet-consec-tetur-dolor-vel-euismod {
+.lorem-ipsum-dolor-sit-amet-consec-tetur-dolor-vel-euismod {
  break-words
  font-['Montserrat']
  font-medium
@@ -197,34 +197,34 @@
  leading-[1.439]
  text-[#FFFFFF]
 }
-. .star-1 {
+.star-1 {
  absolute
  right-[32.9px]
  bottom-[4px]
  w-[5.5px]
  h-[5.5px]
 }
-. .star-2 {
+.star-2 {
  absolute
  right-[26.3px]
  bottom-[4px]
  w-[5.5px]
  h-[5.5px]
 }
-. .star-3 {
+.star-3 {
  absolute
  right-[19.8px]
  bottom-[4px]
  w-[5.5px]
  h-[5.5px]
 }
-. .star-4 {
+.star-4 {
  relative
  m-[20.4px_1.7px_0.8px_0]
  w-[5.5px]
  h-[5.5px]
 }
-. .container {
+.container {
  relative
  m-[19.7px_0_0_0]
  inline-block
@@ -236,7 +236,7 @@
  leading-[1.439]
  text-[#FFFFFF]
 }
-. .username-reply-2 {
+.username-reply-2 {
  relative
  m-[0_21.2px_0_21.2px]
  flex
@@ -245,7 +245,7 @@
  w-[fit-content]
  box-sizing-border
 }
-. .why-us-1 {
+.why-us-1 {
  m-[0_70.4px_11px_0]
  inline-block
  break-words
@@ -255,14 +255,14 @@
  leading-[2.1]
  text-[#000000]
 }
-. .ellipse-141 {
+.ellipse-141 {
  rounded-[9.5px]
  bg-[url('assets/images/Ellipse14.jpeg')]
  m-[0_0_1.5px_0]
  w-[19.1px]
  h-[19.1px]
 }
-. .user-name-1 {
+.user-name-1 {
  m-[0_0.6px_0_1.4px]
  break-words
  font-['Montserrat']
@@ -272,14 +272,14 @@
  leading-[1.439]
  text-[#000000]
 }
-. .union-1 {
+.union-1 {
  absolute
  top-[0px]
  right-[0px]
  w-[163.1px]
  h-[37.7px]
 }
-. .group-321 {
+.group-321 {
  relative
  m-[3.4px_0_4.2px_0]
  flex
@@ -287,7 +287,7 @@
  justify-center
  box-sizing-border
 }
-. .lorem-ipsum-dolor-sit-amet-consec-tetur-dolor-vel-euismod-mus-purus-bibendum-donec {
+.lorem-ipsum-dolor-sit-amet-consec-tetur-dolor-vel-euismod-mus-purus-bibendum-donec {
  break-words
  font-['Montserrat']
  font-medium
@@ -296,14 +296,14 @@
  leading-[1.439]
  text-[#FFFFFF]
 }
-. .star-11 {
+.star-11 {
  absolute
  right-[32.9px]
  bottom-[4px]
  w-[5.5px]
  h-[5.5px]
 }
-. .group-33 {
+.group-33 {
  relative
  flex
  flex-row
@@ -311,26 +311,26 @@
  w-[fit-content]
  box-sizing-border
 }
-. .star-21 {
+.star-21 {
  absolute
  right-[26.3px]
  bottom-[4px]
  w-[5.5px]
  h-[5.5px]
 }
-. .star-31 {
+.star-31 {
  relative
  m-[28.3px_1.1px_0.8px_0]
  w-[5.5px]
  h-[5.5px]
 }
-. .star-41 {
+.star-41 {
  relative
  m-[28.3px_1.4px_0.8px_0]
  w-[5.5px]
  h-[5.5px]
 }
-. .container-1 {
+.container-1 {
  relative
  m-[27.6px_0_0_0]
  inline-block
@@ -342,7 +342,7 @@
  leading-[1.439]
  text-[#FFFFFF]
 }
-. .why-us-2 {
+.why-us-2 {
  relative
  m-[0_0_37.8px_0]
  flex
@@ -352,7 +352,7 @@
  w-[330.1px]
  box-sizing-border
 }
-. .faq {
+.faq {
  m-[0_1px_20px_0]
  inline-block
  break-words
@@ -361,7 +361,7 @@
  text-[15px]
  text-[#000000]
 }
-. .group-45 {
+.group-45 {
  rounded-[6px]
  border-[1px_solid_#E3E3E3]
  bg-[rgba(240,240,240,0.48)]
@@ -374,7 +374,7 @@
  w-[100%]
  box-sizing-border
 }
-. .lorem-ipsum-dolor-sit-amet-consectetur-sagittis-egestas-commodo {
+.lorem-ipsum-dolor-sit-amet-consectetur-sagittis-egestas-commodo {
  m-[0.2px_6.5px_0_0]
  inline-block
  w-[302.3px]
@@ -385,13 +385,13 @@
  leading-[2.1]
  text-[#000000]
 }
-. .polygon-2 {
+.polygon-2 {
  rounded-[1px]
  m-[0_0_1.4px_0]
  w-[15.8px]
  h-[11.8px]
 }
-. .group-46 {
+.group-46 {
  rounded-[6px]
  border-[1px_solid_#E3E3E3]
  bg-[rgba(240,240,240,0.48)]
@@ -404,7 +404,7 @@
  w-[100%]
  box-sizing-border
 }
-. .lorem-ipsum-dolor-sit-amet-consectetur-sagittis-egestas-commodo-1 {
+.lorem-ipsum-dolor-sit-amet-consectetur-sagittis-egestas-commodo-1 {
  m-[0.2px_6.5px_0_0]
  inline-block
  w-[302.3px]
@@ -415,13 +415,13 @@
  leading-[2.1]
  text-[#000000]
 }
-. .polygon-21 {
+.polygon-21 {
  rounded-[1px]
  m-[0_0_1.4px_0]
  w-[15.8px]
  h-[11.8px]
 }
-. .group-47 {
+.group-47 {
  rounded-[6px]
  border-[1px_solid_#E3E3E3]
  bg-[rgba(240,240,240,0.48)]
@@ -433,7 +433,7 @@
  w-[100%]
  box-sizing-border
 }
-. .lorem-ipsum-dolor-sit-amet-consectetur-sagittis-egestas-commodo-2 {
+.lorem-ipsum-dolor-sit-amet-consectetur-sagittis-egestas-commodo-2 {
  m-[0.2px_6.5px_0_0]
  inline-block
  w-[302.3px]
@@ -444,13 +444,13 @@
  leading-[2.1]
  text-[#000000]
 }
-. .polygon-22 {
+.polygon-22 {
  rounded-[1px]
  m-[0_0_1.4px_0]
  w-[15.8px]
  h-[11.8px]
 }
-. .faq-1 {
+.faq-1 {
  relative
  m-[0_20px_42.3px_20px]
  flex
@@ -459,7 +459,7 @@
  w-[calc(100%_-_40px)]
  box-sizing-border
 }
-. .about-us {
+.about-us {
  absolute
  left-[50%]
  bottom-[249px]
@@ -471,7 +471,7 @@
  leading-[2.1]
  text-[#000000]
 }
-. .admin {
+.admin {
  m-[0_2.2px_0_2.4px]
  break-words
  font-['Montserrat']
@@ -481,7 +481,7 @@
  leading-[1.439]
  text-[#000000]
 }
-. .lorem-ipsum-dolor-sit-amet-consectetur-quam-tincidunt-convallis-sit-eget-sed-mi-dictumst-risus-morbi-ornare-consequat-donec-arcu-amet-sed-ut-suspendisse {
+.lorem-ipsum-dolor-sit-amet-consectetur-quam-tincidunt-convallis-sit-eget-sed-mi-dictumst-risus-morbi-ornare-consequat-donec-arcu-amet-sed-ut-suspendisse {
  absolute
  left-[50%]
  top-[19.4px]
@@ -495,27 +495,27 @@
  leading-[1.554]
  text-[#000000]
 }
-. .footer-1 {
+.footer-1 {
  relative
  p-[89.4px_0_1px_0]
  w-[100%]
  box-sizing-border
 }
-. .union-2 {
+.union-2 {
  absolute
  left-[0px]
  top-[0px]
  w-[168.4px]
  h-[38.2px]
 }
-. .order-now-1 {
+.order-now-1 {
  break-words
  font-['Montserrat']
  font-bold
  text-[5px]
  text-[#FFFFFF]
 }
-. .our-suggest {
+.our-suggest {
  absolute
  right-[-49px]
  bottom-[652.6px]
@@ -526,7 +526,7 @@
  h-[220.4px]
  box-sizing-border
 }
-. .group-60 {
+.group-60 {
  relative
  m-[0_0_11px_0]
  flex
@@ -538,7 +538,7 @@
  h-[409px]
  box-sizing-border
 }
-. .first-landing {
+.first-landing {
  absolute
  left-[-127px]
  top-[72px]
@@ -548,7 +548,7 @@
  h-[1222px]
  box-sizing-border
 }
-. .navigation-bar {
+.navigation-bar {
  m-[0_20.3px_76px_20px]
  flex
  flex-row
@@ -556,7 +556,7 @@
  w-[calc(100%_-_40.3px)]
  box-sizing-border
 }
-. .container {
+.container {
  shadow-[0px_0px_39px_0px_rgba(255,91,0,0.23)]
  rounded-[12px]
  bg-[#FF5B00]
@@ -568,7 +568,7 @@
  p-[3.2px_10.6px_3.9px_10px]
  box-sizing-border
 }
-. .container-1 {
+.container-1 {
  relative
  m-[0_0_1.4px_0]
  flex
@@ -579,14 +579,14 @@
  h-[19.1px]
  box-sizing-border
 }
-. .container-2 {
+.container-2 {
  absolute
  right-[42.9px]
  bottom-[0px]
  w-[298.3px]
  h-[262.4px]
 }
-. .container-3 {
+.container-3 {
  relative
  m-[0_11.4px_2px_0]
  flex
@@ -594,14 +594,14 @@
  items-center
  box-sizing-border
 }
-. .container-4 {
+.container-4 {
  flex
  flex-row
  justify-between
  w-[100%]
  box-sizing-border
 }
-. .container-5 {
+.container-5 {
  m-[0_0_7px_2px]
  flex
  flex-row
@@ -609,7 +609,7 @@
  w-[265px]
  box-sizing-border
 }
-. .ellipse-5 {
+.ellipse-5 {
  rounded-[122.5px]
  absolute
  left-[50%]
@@ -619,7 +619,7 @@
  w-[245px]
  h-[245px]
 }
-. .ellipse-16 {
+.ellipse-16 {
  rounded-[162.5px]
  rotate-[-179.98deg]
  absolute
@@ -630,7 +630,7 @@
  w-[325px]
  h-[325px]
 }
-. .ellipse-17 {
+.ellipse-17 {
  rounded-[204.5px]
  absolute
  left-[50%]
@@ -639,7 +639,7 @@
  w-[409px]
  h-[409px]
 }
-. .landing-item {
+.landing-item {
  m-[0_0_50px_0]
  flex
  flex-row
@@ -648,18 +648,18 @@
  h-[60px]
  box-sizing-border
 }
-. .group-17 {
+.group-17 {
  w-[60px]
  h-[60px]
 }
-. {
+{
  bg-[#F9F9F9]
  flex
  flex-col
  p-[30px_0_0_0]
  box-sizing-border
 }
-. .group-12 {
+.group-12 {
  relative
  m-[44px_0_0_0]
  flex
@@ -669,13 +669,13 @@
  h-[66px]
  box-sizing-border
 }
-. .ellipse-9 {
+.ellipse-9 {
  rotate-[-170deg]
  relative
  w-[66px]
  h-[66px]
 }
-. .ellipse-4 {
+.ellipse-4 {
  rounded-[25.9px]
  bg-[url('assets/images/Ellipse4.jpeg')]
  absolute
@@ -684,7 +684,7 @@
  right-[7.1px]
  h-[51.8px]
 }
-. .group-15 {
+.group-15 {
  relative
  m-[0px_0_44px_0]
  flex
@@ -694,13 +694,13 @@
  h-[66px]
  box-sizing-border
 }
-. .ellipse-10 {
+.ellipse-10 {
  rotate-[-170deg]
  relative
  w-[66px]
  h-[66px]
 }
-. .ellipse-3 {
+.ellipse-3 {
  rounded-[25.9px]
  bg-[url('assets/images/Ellipse3.jpeg')]
  bg-[50%_50%]
@@ -712,7 +712,7 @@
  bottom-[6.5px]
  h-[52.7px]
 }
-. .group-4 {
+.group-4 {
  absolute
  left-[50%]
  bottom-[9px]
@@ -722,7 +722,7 @@
  gap-[0_36px]
  box-sizing-border
 }
-. .buttn-see-more {
+.buttn-see-more {
  shadow-[0px_0px_24px_0px_rgba(255,91,0,0.13)]
  rounded-[7px]
  bg-[#FF5B00]
@@ -735,7 +735,7 @@
  w-[252px]
  box-sizing-border
 }
-. .tasty {
+.tasty {
  m-[0_12px_0_0]
  w-[322px]
  break-words
@@ -744,7 +744,7 @@
  text-[20px]
  text-[#000000]
 }
-. .see-more {
+.see-more {
  m-[0_7.6px_0_0]
  break-words
  font-['Montserrat']
@@ -752,39 +752,39 @@
  text-[10px]
  text-[#FFFFFF]
 }
-. .vector-11 {
+.vector-11 {
  m-[2px_0_1.4px_0]
  w-[5.7px]
  h-[8.6px]
 }
-. .vector-12 {
+.vector-12 {
  absolute
  left-[30px]
  bottom-[40px]
  w-[15px]
  h-[15px]
 }
-. .vector-13 {
+.vector-13 {
  absolute
  left-[30px]
  bottom-[15px]
  w-[15px]
  h-[15px]
 }
-. .vector-14 {
+.vector-14 {
  absolute
  left-[147px]
  top-[404px]
  w-[15px]
  h-[15px]
 }
-. .line-29 {
+.line-29 {
  bg-[#000000]
  m-[0_0_4px_0]
  w-[15.8px]
  h-[2px]
 }
-. .salads {
+.salads {
  shadow-[0px_0px_40px_0px_rgba(0,0,0,0.1)]
  rounded-[12px]
  bg-[url('assets/images/Rectangle171.jpeg')]
@@ -798,7 +798,7 @@
  basis-[128px]
  box-sizing-border
 }
-. .rectangle-19 {
+.rectangle-19 {
  rounded-[12px]
  bg-[rgba(0,0,0,0.6)]
  absolute
@@ -808,7 +808,7 @@
  bottom-[0px]
  h-[100%]
 }
-. .salads-1 {
+.salads-1 {
  relative
  m-[0_0_3px_0]
  inline-block
@@ -838,7 +838,7 @@
  text-[7px]
  leading-[1.333]
 }
-. .from-8 {
+.from-8 {
  relative
  m-[0_0_3px_0]
  self-start
@@ -848,18 +848,18 @@
  text-[12px]
  text-[#FFFFFF]
 }
-. .line-30 {
+.line-30 {
  bg-[#000000]
  m-[0_0_4px_0]
  w-[15.8px]
  h-[2px]
 }
-. .line-31 {
+.line-31 {
  bg-[#000000]
  w-[15.8px]
  h-[2px]
 }
-. .group-48 {
+.group-48 {
  m-[4px_0_6px_0]
  flex
  flex-col
@@ -868,7 +868,7 @@
  h-[fit-content]
  box-sizing-border
 }
-. .ellipse-15 {
+.ellipse-15 {
  rounded-[96px]
  bg-[url('assets/images/Ellipse2.jpeg')]
  absolute
@@ -877,7 +877,7 @@
  w-[192px]
  h-[192px]
 }
-. .meat-eat-enjoy-the-true-taste {
+.meat-eat-enjoy-the-true-taste {
  relative
  text-center
  break-words
@@ -900,7 +900,7 @@
  text-[30px]
  leading-[1.333]
 }
-. .pizza {
+.pizza {
  shadow-[0px_0px_40px_0px_rgba(0,0,0,0.1)]
  rounded-[12px]
  bg-[url('assets/images/Rectangle173.jpeg')]
@@ -914,7 +914,7 @@
  basis-[128px]
  box-sizing-border
 }
-. .rectangle-191 {
+.rectangle-191 {
  rounded-[12px]
  bg-[rgba(0,0,0,0.6)]
  absolute
@@ -924,7 +924,7 @@
  bottom-[0px]
  h-[100%]
 }
-. .pizza-1 {
+.pizza-1 {
  relative
  m-[0_0.5px_3px_0.5px]
  inline-block
@@ -948,7 +948,7 @@
  text-[7px]
  leading-[1.333]
 }
-. .from-18 {
+.from-18 {
  relative
  m-[0_0_3px_0]
  self-start
@@ -958,21 +958,21 @@
  text-[14px]
  text-[#FFFFFF]
 }
-. .order-now-2 {
+.order-now-2 {
  break-words
  font-['Montserrat']
  font-bold
  text-[5px]
  text-[#FFFFFF]
 }
-. .order-now-3 {
+.order-now-3 {
  break-words
  font-['Montserrat']
  font-bold
  text-[5px]
  text-[#FFFFFF]
 }
-. .our-suggest-1 {
+.our-suggest-1 {
  m-[0_70.8px_10px_0]
  inline-block
  break-words
@@ -982,7 +982,7 @@
  leading-[0.909]
  text-[#000000]
 }
-. .lorem-ipsum-dolor-sit-amet-consectetur-maecenas-nunc {
+.lorem-ipsum-dolor-sit-amet-consectetur-maecenas-nunc {
  m-[0_69px_20px_0]
  inline-block
  break-words
@@ -993,7 +993,7 @@
  leading-[1.354]
  text-[#000000]
 }
-. .salads-2 {
+.salads-2 {
  shadow-[0px_0px_40px_0px_rgba(0,0,0,0.1)]
  rounded-[17px]
  bg-[#FFFFFF]
@@ -1006,12 +1006,12 @@
  basis-[128px]
  box-sizing-border
 }
-. .star-12 {
+.star-12 {
  m-[0_2.7px_0_0]
  w-[10.4px]
  h-[10.7px]
 }
-. .container-2 {
+.container-2 {
  m-[2px_3px_1.7px_0]
  inline-block
  break-words
@@ -1022,7 +1022,7 @@
  leading-[1.354]
  text-[#000000]
 }
-. .container-3 {
+.container-3 {
  m-[0_6.8px_0_6.8px]
  self-start
  break-words
@@ -1033,7 +1033,7 @@
  leading-[1.354]
  text-[#F00000]
 }
-. .menu-categories {
+.menu-categories {
  m-[0_70.6px_25px_0]
  inline-block
  break-words
@@ -1043,7 +1043,7 @@
  leading-[0.909]
  text-[#000000]
 }
-. .rectangle-23 {
+.rectangle-23 {
  rounded-r-[12px]
  border-[1px_solid_#F57474]
  bg-[#F00000]
@@ -1053,7 +1053,7 @@
  w-[33.8px]
  h-[12.8px]
 }
-. .made-with-juicy-beef-burger-cheese {
+.made-with-juicy-beef-burger-cheese {
  m-[0_7.7px_3.3px_7.7px]
  inline-block
  self-start
@@ -1065,7 +1065,7 @@
  leading-[1.354]
  text-[rgba(0,0,0,0.3)]
 }
-. .container-4 {
+.container-4 {
  relative
  m-[0_7.9px_0px_7.9px]
  inline-block
@@ -1078,7 +1078,7 @@
  leading-[1.354]
  text-[rgba(0,0,0,0.45)]
 }
-. .review {
+.review {
  m-[2px_0_1.7px_0]
  inline-block
  break-words
@@ -1089,14 +1089,14 @@
  leading-[1.354]
  text-[rgba(0,0,0,0.3)]
 }
-. .line-26 {
+.line-26 {
  opacity-[0.9]
  bg-[rgba(0,0,0,0.6)]
  m-[2.2px_2.5px_1.7px_0]
  w-[0.5px]
  h-[6.8px]
 }
-. .line-27 {
+.line-27 {
  bg-[#8C8C8C]
  absolute
  left-[6.7px]
@@ -1104,7 +1104,7 @@
  w-[19.2px]
  h-[0.5px]
 }
-. .container-5 {
+.container-5 {
  relative
  break-words
  font-['Montserrat']
@@ -1114,7 +1114,7 @@
  leading-[1.354]
  text-[#FFFFFF]
 }
-. .salad {
+.salad {
  m-[0_7.7px_2.3px_7.7px]
  inline-block
  self-start
@@ -1126,7 +1126,7 @@
  leading-[1.354]
  text-[#000000]
 }
-. .group-49 {
+.group-49 {
  m-[0_7.9px_2.8px_7.9px]
  flex
  flex-row
@@ -1134,7 +1134,7 @@
  w-[fit-content]
  box-sizing-border
 }
-. .categories {
+.categories {
  rounded-[12px]
  absolute
  top-[558px]
@@ -1146,7 +1146,7 @@
  h-[215px]
  box-sizing-border
 }
-. .burger {
+.burger {
  shadow-[0px_0px_40px_0px_rgba(0,0,0,0.1)]
  rounded-[12px]
  bg-[url('assets/images/Rectangle172.jpeg')]
@@ -1159,7 +1159,7 @@
  basis-[128px]
  box-sizing-border
 }
-. .rectangle-192 {
+.rectangle-192 {
  rounded-[12px]
  bg-[rgba(0,0,0,0.6)]
  absolute
@@ -1169,7 +1169,7 @@
  bottom-[0px]
  h-[100%]
 }
-. .burger-1 {
+.burger-1 {
  relative
  m-[0_0.5px_3px_0.5px]
  inline-block
@@ -1193,7 +1193,7 @@
  text-[7px]
  leading-[1.333]
 }
-. .from-12 {
+.from-12 {
  relative
  m-[0_0_3px_0]
  self-start
@@ -1203,7 +1203,7 @@
  text-[14px]
  text-[#FFFFFF]
 }
-. .group-23 {
+.group-23 {
  shadow-[0px_0px_39px_0px_rgba(255,91,0,0.23)]
  rounded-[12px]
  bg-[#FF5B00]
@@ -1215,7 +1215,7 @@
  p-[2.8px_11.4px_4.3px_9.3px]
  box-sizing-border
 }
-. .burger-2 {
+.burger-2 {
  shadow-[0px_0px_40px_0px_rgba(0,0,0,0.1)]
  rounded-[17px]
  bg-[#FFFFFF]
@@ -1228,7 +1228,7 @@
  basis-[128px]
  box-sizing-border
 }
-. .container-6 {
+.container-6 {
  m-[0_6.8px_0_6.8px]
  self-start
  break-words
@@ -1239,7 +1239,7 @@
  leading-[1.354]
  text-[#F00000]
 }
-. .rectangle-231 {
+.rectangle-231 {
  rounded-r-[12px]
  border-[1px_solid_#F57474]
  bg-[#F00000]
@@ -1249,7 +1249,7 @@
  w-[33.8px]
  h-[12.8px]
 }
-. .made-with-juicy-beef-burger-cheese-1 {
+.made-with-juicy-beef-burger-cheese-1 {
  m-[0_7.7px_3.3px_7.7px]
  inline-block
  self-start
@@ -1261,7 +1261,7 @@
  leading-[1.354]
  text-[rgba(0,0,0,0.3)]
 }
-. .container-7 {
+.container-7 {
  relative
  m-[0_7.9px_0px_7.9px]
  inline-block
@@ -1274,7 +1274,7 @@
  leading-[1.354]
  text-[rgba(0,0,0,0.45)]
 }
-. .group-491 {
+.group-491 {
  m-[0_7.9px_2.8px_7.9px]
  flex
  flex-row
@@ -1282,12 +1282,12 @@
  w-[fit-content]
  box-sizing-border
 }
-. .star-13 {
+.star-13 {
  m-[0_2.7px_0_0]
  w-[10.4px]
  h-[10.7px]
 }
-. .container-8 {
+.container-8 {
  m-[2px_3.4px_1.7px_0]
  inline-block
  break-words
@@ -1298,7 +1298,7 @@
  leading-[1.354]
  text-[#000000]
 }
-. .review-1 {
+.review-1 {
  m-[2px_0_1.7px_0]
  inline-block
  break-words
@@ -1309,14 +1309,14 @@
  leading-[1.354]
  text-[rgba(0,0,0,0.3)]
 }
-. .line-261 {
+.line-261 {
  opacity-[0.9]
  bg-[rgba(0,0,0,0.6)]
  m-[2.2px_2.5px_1.7px_0]
  w-[0.5px]
  h-[6.8px]
 }
-. .line-271 {
+.line-271 {
  bg-[#8C8C8C]
  absolute
  left-[6.7px]
@@ -1324,7 +1324,7 @@
  w-[18.2px]
  h-[0.5px]
 }
-. .container-9 {
+.container-9 {
  relative
  break-words
  font-['Montserrat']
@@ -1334,7 +1334,7 @@
  leading-[1.354]
  text-[#FFFFFF]
 }
-. .burger-3 {
+.burger-3 {
  m-[0_7.7px_2.3px_7.7px]
  inline-block
  self-start
@@ -1346,7 +1346,7 @@
  leading-[1.354]
  text-[#000000]
 }
-. .salads-3 {
+.salads-3 {
  shadow-[0px_0px_40px_0px_rgba(0,0,0,0.1)]
  rounded-[17px]
  bg-[#FFFFFF]
@@ -1358,7 +1358,7 @@
  basis-[128px]
  box-sizing-border
 }
-. .group-24 {
+.group-24 {
  relative
  m-[0_6.7px_0_6.7px]
  flex
@@ -1368,7 +1368,7 @@
  w-[fit-content]
  box-sizing-border
 }
-. .container-10 {
+.container-10 {
  self-start
  break-words
  font-['Montserrat']
@@ -1378,7 +1378,7 @@
  leading-[1.354]
  text-[#F00000]
 }
-. .rectangle-232 {
+.rectangle-232 {
  rounded-r-[12px]
  border-[1px_solid_#F57474]
  bg-[#F00000]
@@ -1388,7 +1388,7 @@
  w-[33.8px]
  h-[12.8px]
 }
-. .made-with-juicy-beef-burger-cheese-2 {
+.made-with-juicy-beef-burger-cheese-2 {
  m-[0_0_3.3px_0.9px]
  inline-block
  break-words
@@ -1399,7 +1399,7 @@
  leading-[1.354]
  text-[rgba(0,0,0,0.3)]
 }
-. .container-11 {
+.container-11 {
  relative
  m-[0_1.1px_0px_1.1px]
  inline-block
@@ -1412,7 +1412,7 @@
  leading-[1.354]
  text-[rgba(0,0,0,0.45)]
 }
-. .group-492 {
+.group-492 {
  m-[0_1.1px_2.8px_1.1px]
  flex
  flex-row
@@ -1420,12 +1420,12 @@
  w-[fit-content]
  box-sizing-border
 }
-. .star-14 {
+.star-14 {
  m-[0_2.7px_0_0]
  w-[10.4px]
  h-[10.7px]
 }
-. .container-12 {
+.container-12 {
  m-[2px_3.2px_1.7px_0]
  inline-block
  break-words
@@ -1436,7 +1436,7 @@
  leading-[1.354]
  text-[#000000]
 }
-. .review-2 {
+.review-2 {
  m-[2px_0_1.7px_0]
  inline-block
  break-words
@@ -1447,14 +1447,14 @@
  leading-[1.354]
  text-[rgba(0,0,0,0.3)]
 }
-. .line-262 {
+.line-262 {
  opacity-[0.9]
  bg-[rgba(0,0,0,0.6)]
  m-[2.2px_2.5px_1.7px_0]
  w-[0.5px]
  h-[6.8px]
 }
-. .line-272 {
+.line-272 {
  bg-[#8C8C8C]
  absolute
  left-[0px]
@@ -1462,7 +1462,7 @@
  w-[15.2px]
  h-[0.5px]
 }
-. .container-13 {
+.container-13 {
  relative
  break-words
  font-['Montserrat']
@@ -1472,7 +1472,7 @@
  leading-[1.354]
  text-[#FFFFFF]
 }
-. .potato {
+.potato {
  m-[0_0.9px_2.3px_0.9px]
  inline-block
  self-start
@@ -1484,7 +1484,7 @@
  leading-[1.354]
  text-[#000000]
 }
-. .lettuce-green-free-png-hq-1 {
+.lettuce-green-free-png-hq-1 {
  shadow-[21px_25px_38px_0px_rgba(0,0,0,0.19)]
  blur-[2px]
  bg-[url('assets/images/LettuceGreenFreePngHq1.png')]
@@ -1498,7 +1498,7 @@
  w-[47.1px]
  h-[42.8px]
 }
-. .transparent-rosemary-5-dd-92-fd-37-c-65781 {
+.transparent-rosemary-5-dd-92-fd-37-c-65781 {
  blur-[1.5px]
  bg-[url('assets/images/TransparentRosemary5Dd92Fd37C65781.png')]
  bg-[50%_50%]
@@ -1510,7 +1510,7 @@
  w-[57.6px]
  h-[50.5px]
 }
-. .lovepik-com-401592886-creative-splashing-tomatoes-1 {
+.lovepik-com-401592886-creative-splashing-tomatoes-1 {
  blur-[2.5px]
  bg-[url('assets/images/LovepikCom401592886CreativeSplashingTomatoes1.png')]
  bg-[50%_50%]
@@ -1523,7 +1523,7 @@
  w-[120.8px]
  h-[104.3px]
 }
-. .delicious-burger-with-many-ingredients-isolated-white-background-1 {
+.delicious-burger-with-many-ingredients-isolated-white-background-1 {
  blur-[2px]
  bg-[url('assets/images/DeliciousBurgerWithManyIngredientsIsolatedWhiteBackground1.png')]
  bg-[50%_50%]
@@ -1533,7 +1533,7 @@
  w-[253px]
  h-[268px]
 }
-. .container-6 {
+.container-6 {
  rounded-t-[17px]
  bg-[url('assets/images/Rectangle223.jpeg')]
  bg-[50%_50%]
@@ -1546,7 +1546,7 @@
  h-[87.5px]
  box-sizing-border
 }
-. .container-7 {
+.container-7 {
  rounded-t-[17px]
  bg-[url('assets/images/Rectangle224.jpeg')]
  bg-[50%_50%]
@@ -1559,7 +1559,7 @@
  h-[88px]
  box-sizing-border
 }
-. .container-8 {
+.container-8 {
  relative
  m-[0_13.6px_9.9px_0]
  flex
@@ -1567,14 +1567,14 @@
  items-center
  box-sizing-border
 }
-. .container-9 {
+.container-9 {
  flex
  flex-row
  justify-between
  w-[100%]
  box-sizing-border
 }
-. .container-10 {
+.container-10 {
  relative
  m-[0_0_5.7px_0]
  flex
@@ -1582,11 +1582,11 @@
  items-center
  box-sizing-border
 }
-. .container-11 {
+.container-11 {
  w-[8.8px]
  h-[10.5px]
 }
-. .container-12 {
+.container-12 {
  flex
  flex-row
  justify-center
@@ -1594,7 +1594,7 @@
  h-[10.5px]
  box-sizing-border
 }
-. .container-13 {
+.container-13 {
  rounded-t-[17px]
  bg-[url('assets/images/Rectangle22.jpeg')]
  bg-[50%_50%]
@@ -1607,7 +1607,7 @@
  h-[90px]
  box-sizing-border
 }
-. .container-14 {
+.container-14 {
  shadow-[0px_0px_39px_0px_rgba(255,91,0,0.23)]
  rounded-[12px]
  bg-[#FF5B00]

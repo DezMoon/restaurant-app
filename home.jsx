@@ -20,8 +20,8 @@ export default function Iphone141() {
           <div className="relative flex flex-row p-[0_0_6px_7.5px] w-[fit-content] box-sizing-border">
             <img className="absolute left-[0px] top-[0px] w-[168.4px] h-[38.2px]" />
             <div className="relative m-[5.2px_19.5px_0_0] inline-block break-words font-['Montserrat'] font-medium text-[6px] tracking-[0px] leading-[1.439] text-[#FFFFFF]">
-              Lorem ipsum dolor sit amet consectetur. Dolor vel euismod mus
-              purus bibendum. Donec imperdiet non netus velit.
+              Lorem ipsum dolor sit amet consecteturDolor vel euismod mus purus
+              bibendumDonec imperdiet non netus velit.
             </div>
             <div className="relative m-[0_0_5.7px_0] flex flex-col items-center box-sizing-border">
               <div className="relative m-[0_0_1.4px_0] flex flex-row justify-center p-[4px_4.4px_4.6px_5.9px] w-[19.1px] h-[19.1px] box-sizing-border">
@@ -45,7 +45,7 @@ export default function Iphone141() {
           </div>
           <div className="relative m-[5.9px_2.4px_2.7px_0] flex flex-row justify-center box-sizing-border">
             <span className="break-words font-['Montserrat'] font-medium text-[6px] tracking-[0px] leading-[1.439] text-[#FFFFFF]">
-              Lorem ipsum dolor sit amet consec tetur. Dolor vel euismod.
+              Lorem ipsum dolor sit amet consec teturDolor vel euismod.
             </span>
           </div>
           <img className="relative m-[20.4px_1.7px_0.8px_0] w-[5.5px] h-[5.5px]" />
@@ -66,8 +66,8 @@ export default function Iphone141() {
           </div>
           <div className="relative m-[3.4px_0_4.2px_0] flex flex-row justify-center box-sizing-border">
             <span className="break-words font-['Montserrat'] font-medium text-[6px] tracking-[0px] leading-[1.439] text-[#FFFFFF]">
-              Lorem ipsum dolor sit amet consec tetur. Dolor vel euismod mus
-              purus bibendum. Donec.
+              Lorem ipsum dolor sit amet consec teturDolor vel euismod mus purus
+              bibendumDonec.
             </span>
           </div>
           <img className="relative m-[28.3px_1.1px_0.8px_0] w-[5.5px] h-[5.5px]" />
@@ -85,19 +85,19 @@ export default function Iphone141() {
         </div>
         <div className="rounded-[6px] border-[1px_solid_#E3E3E3] bg-[rgba(240,240,240,0.48)] relative m-[0_0_6.1px_0] flex flex-row justify-between p-[6.1px_10.4px_6px_15px] w-[100%] box-sizing-border">
           <div className="m-[0.2px_6.5px_0_0] inline-block w-[302.3px] break-words font-['Montserrat'] font-normal text-[6px] leading-[2.1] text-[#000000]">
-            Lorem ipsum dolor sit amet consectetur. Sagittis egestas commodo ?
+            Lorem ipsum dolor sit amet consecteturSagittis egestas commodo ?
           </div>
           <img className="rounded-[1px] m-[0_0_1.4px_0] w-[15.8px] h-[11.8px]" />
         </div>
         <div className="rounded-[6px] border-[1px_solid_#E3E3E3] bg-[rgba(240,240,240,0.48)] relative m-[0_0_6.1px_0] flex flex-row justify-between p-[6.1px_10.4px_6px_15px] w-[100%] box-sizing-border">
           <div className="m-[0.2px_6.5px_0_0] inline-block w-[302.3px] break-words font-['Montserrat'] font-normal text-[6px] leading-[2.1] text-[#000000]">
-            Lorem ipsum dolor sit amet consectetur. Sagittis egestas commodo ?
+            Lorem ipsum dolor sit amet consecteturSagittis egestas commodo ?
           </div>
           <img className="rounded-[1px] m-[0_0_1.4px_0] w-[15.8px] h-[11.8px]" />
         </div>
         <div className="rounded-[6px] border-[1px_solid_#E3E3E3] bg-[rgba(240,240,240,0.48)] relative flex flex-row justify-between p-[6.1px_10.4px_6px_15px] w-[100%] box-sizing-border">
           <div className="m-[0.2px_6.5px_0_0] inline-block w-[302.3px] break-words font-['Montserrat'] font-normal text-[6px] leading-[2.1] text-[#000000]">
-            Lorem ipsum dolor sit amet consectetur. Sagittis egestas commodo ?
+            Lorem ipsum dolor sit amet consecteturSagittis egestas commodo ?
           </div>
           <img className="rounded-[1px] m-[0_0_1.4px_0] w-[15.8px] h-[11.8px]" />
         </div>
@@ -134,9 +134,9 @@ export default function Iphone141() {
           designed by zaynab khosravi
         </span>
         <span className="absolute left-[50%] top-[19.4px] translate-x-[-50%] text-center break-words font-['Montserrat'] font-normal text-[9px] tracking-[-0.1px] leading-[1.554] text-[#000000]">
-          Lorem ipsum dolor sit amet consectetur. Quam tincidunt convallis sit
-          eget. Sed mi dictumst risus morbi ornare consequat donec. Arcu amet
-          sed ut suspendisse.
+          Lorem ipsum dolor sit amet consecteturQuam tincidunt convallis sit
+          egetSed mi dictumst risus morbi ornare consequat donecArcu amet sed ut
+          suspendisse.
         </span>
       </div>
       <span className="absolute left-[50%] bottom-[249px] translate-x-[-50%] break-words font-['Montserrat'] font-semibold text-[15px] leading-[2.1] text-[#000000]">
@@ -147,7 +147,7 @@ export default function Iphone141() {
           Our Suggest
         </div>
         <div className="m-[0_69px_20px_0] inline-block break-words font-['Montserrat'] font-normal text-[8px] tracking-[0px] leading-[1.354] text-[#000000]">
-          Lorem ipsum dolor sit amet consectetur. Maecenas nunc
+          Lorem ipsum dolor sit amet consecteturMaecenas nunc
         </div>
         <div className="flex flex-row justify-between w-[100%] box-sizing-border">
           <div className="shadow-[0px_0px_40px_0px_rgba(0,0,0,0.1)] rounded-[17px] bg-[#FFFFFF] relative m-[0_17px_0_0] flex flex-col p-[0.1px_0px_9.3px_0] grow basis-[128px] box-sizing-border">
